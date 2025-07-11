@@ -43,3 +43,4 @@ def delete_video(videos):
         helper(videos)
     else:
         print("Invalid video index selected")
+    
