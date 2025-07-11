@@ -44,4 +44,3 @@ def delete_video(videos):
     else:
         print("Invalid video index selected")
     
-print("OKay")
